@@ -13,7 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 """A client that performs inferences on a ResNet model using the REST API.
-
+Marcos Arturo Lopez Gonzalez
 The client downloads a test image of a cat, queries the server over the REST API
 with the test image repeatedly and measures how long it takes to respond.
 
